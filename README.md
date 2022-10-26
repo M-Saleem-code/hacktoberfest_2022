@@ -1,2 +1,2 @@
-﻿# ---hacktoberfest_2022
+﻿# Hacktoberfest_2k22
  this is for hacktoberfest 2022
